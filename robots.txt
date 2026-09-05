@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RKPatel-1996.github.io/notes_computers_in_biology/sitemap.xml
