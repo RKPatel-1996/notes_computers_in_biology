@@ -1,6 +1,27 @@
 // AUTO-GENERATED FILE. DO NOT EDIT DIRECTLY.
 export const ARTICLE_MANIFEST = [
   {
+    "id": "RK-2026-023",
+    "title": "Basic Molecular Structure Visualization with ChimeraX, PyMOL, and Jmol",
+    "date": "2026-09-07",
+    "tags": [
+      "#ChimeraX",
+      "#MolecularVisualization",
+      "#ProteinStructure"
+    ],
+    "excerpt": "Molecular-visualization software converts structural coordinates into interactive three-dimensional representations that biologists can explore. This article introduces UCSF ChimeraX as the primary learning tool, with PyMOL and Jmol/JSmol as useful alternatives, and uses the human beta-2 adrenergic receptor structure PDB 2RH1 as a running pharmacology example. Students learn what cartoon, stick, sphere, and surface representations mean biologically and complete a small first-session workflow for locating a ligand, examining a binding pocket, selecting residues, and interpreting structural context.",
+    "readTime": "25 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-023.ts"
+  },
+  {
     "id": "RK-2026-031",
     "title": "Practical 4: MEGA- Phylogenetic tree plotting",
     "date": "2026-03-15",
@@ -166,27 +187,6 @@ export const ARTICLE_MANIFEST = [
       "affiliation": "Gujarat University"
     },
     "modulePath": "./articles/rk-2026-022.ts"
-  },
-  {
-    "id": "RK-2026-023",
-    "title": "Practical -2: Retrieval of Structural and Experimental Information for PDB ID 4DKI ",
-    "date": "2026-02-26",
-    "tags": [
-      "#Practical",
-      "#PDB",
-      "#bioinformatics"
-    ],
-    "excerpt": "\n    \n",
-    "readTime": "30 min",
-    "type": "report",
-    "template": "standard",
-    "author": {
-      "name": "RK Patel",
-      "role": "Microbiologist",
-      "avatar": "https://github.com/RKPatel-1996.png",
-      "affiliation": "Gujarat University"
-    },
-    "modulePath": "./articles/rk-2026-023.ts"
   },
   {
     "id": "RK-2026-024",
