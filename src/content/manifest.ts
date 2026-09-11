@@ -1,6 +1,27 @@
 // AUTO-GENERATED FILE. DO NOT EDIT DIRECTLY.
 export const ARTICLE_MANIFEST = [
   {
+    "id": "RK-2026-024",
+    "title": "Pairwise Sequence Alignment with NCBI BLAST: Local vs. Global Alignment, BLASTn/BLASTp, and Result Interpretation",
+    "date": "2026-09-11",
+    "tags": [
+      "#BLAST",
+      "#SequenceAlignment",
+      "#bioinformatics"
+    ],
+    "excerpt": "A biology-oriented guide to pairwise sequence alignment using NCBI BLAST. It explains when local and global alignment are appropriate, how to run nucleotide and protein comparisons with BLASTn and BLASTp, and how to interpret the BLAST results table with particular attention to E-values, bit scores, query coverage, and percent identity.",
+    "readTime": "20 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-024.ts"
+  },
+  {
     "id": "RK-2026-023",
     "title": "Basic Molecular Structure Visualization with ChimeraX, PyMOL, and Jmol",
     "date": "2026-09-07",
