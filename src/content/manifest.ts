@@ -1,6 +1,28 @@
 // AUTO-GENERATED FILE. DO NOT EDIT DIRECTLY.
 export const ARTICLE_MANIFEST = [
   {
+    "id": "RK-2026-025",
+    "title": "Basic Biostatistics in Microsoft Excel: Mean, Standard Deviation, Cell References, and Plots",
+    "date": "2026-09-21",
+    "tags": [
+      "#Biostatistics",
+      "#MicrosoftExcel",
+      "#DescriptiveStatistics",
+      "#DataVisualization"
+    ],
+    "excerpt": "A beginner-friendly introduction to organizing numerical biological data in Microsoft Excel and summarizing it with the mean and standard deviation. The article also explains relative and absolute cell references and shows when to use bar, scatter, and line plots without turning the lesson into a software tutorial.",
+    "readTime": "24 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-025.ts"
+  },
+  {
     "id": "RK-2026-024",
     "title": "Pairwise Sequence Alignment with NCBI BLAST: Local vs. Global Alignment, BLASTn/BLASTp, and Result Interpretation",
     "date": "2026-09-11",
