@@ -69,7 +69,7 @@ const i={id:"RK-2025-002",title:"Syllabus",date:"2026-07-05",tags:["#syllabus","
 <ul>
   <li>Introduction to the Protein Data Bank (PDB); &#10004;</li>
   <li>anatomy of a PDB file; &#10004;</li>
-  <li>introduction to basic standalone or web-based molecular visualization software (e.g., PyMOL, Chimera, or Jmol) for viewing three-dimensional macromolecular structures.</li>
+  <li>introduction to basic standalone or web-based molecular visualization software (e.g., PyMOL, Chimera, or Jmol) for viewing three-dimensional macromolecular structures.&#10004;</li>
 </ul>
   </article>
   `};export{i as default};
