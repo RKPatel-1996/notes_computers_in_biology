@@ -179,6 +179,18 @@ const article: Article = {
     <li>Explain the potential consequences of poor data integrity for scientific conclusions, pharmaceutical quality and patient safety.</li>
 </ol>
 
+
+<h3>Topic 7. Electronic Laboratory Notebooks (ELNs) and Laboratory Information Management Systems (LIMS)</h3>
+<ol>
+    <li>What is an Electronic Laboratory Notebook (ELN)?</li>
+    <li>What is a Laboratory Information Management System (LIMS)?</li>
+    <li>State one major difference between an ELN and a LIMS.</li>
+    <li>Which type of laboratory work is an ELN mainly designed for?</li>
+    <li>Which type of laboratory work commonly uses a LIMS?</li>
+    <li>How does a LIMS help in tracking laboratory samples?</li>
+    <li>What is meant by chain of custody of a laboratory sample?</li>
+    <li>How can automated audit trails help maintain data integrity?</li>
+</ol>
 <h3>Topic 8. Advanced Data Entry and Spreadsheet Management</h3>
 <ol>
     <li>Define tidy data.</li>
@@ -362,6 +374,147 @@ print(Sample)</code></pre>
     <li>What value is returned by <code>od_readings[0]</code>?</li>
     <li>Compare <code>.ipynb</code> and <code>.py</code> files.</li>
     <li>Why is Jupyter preferable during exploratory analysis?</li>
+</ol>
+
+<h3>Topic 13. Introduction to Bioinformatics</h3>
+<ol>
+    <li>What is bioinformatics?</li>
+    <li>State any two applications of bioinformatics in biological research.</li>
+    <li>How are computers used to store and analyse biological information?</li>
+    <li>Explain one application of bioinformatics in drug discovery.</li>
+    <li>Name two types of biological data commonly analysed using bioinformatics.</li>
+</ol>
+
+<h3>Topic 14. FASTA Format and Biological Sequences</h3>
+<ol>
+    <li>What is FASTA format?</li>
+    <li>What does the <code>&gt;</code> symbol represent in a FASTA file?</li>
+    <li>What types of biological sequences can be stored in FASTA format?</li>
+    <li>What information is usually included in a FASTA sequence header?</li>
+    <li>Write a simple example of a DNA sequence in FASTA format.</li>
+</ol>
+
+<h3>Topic 15. Nucleotide Sequence Databases</h3>
+<ol>
+    <li>What is a biological sequence database?</li>
+    <li>Name three major nucleotide sequence databases.</li>
+    <li>What is GenBank?</li>
+    <li>What is the European Nucleotide Archive (ENA)?</li>
+    <li>What is DDBJ?</li>
+    <li>What is an accession number in a biological database?</li>
+</ol>
+
+<h3>Topic 16. Protein Databases</h3>
+<ol>
+    <li>What is UniProt?</li>
+    <li>What is Swiss-Prot?</li>
+    <li>What type of information is available in a protein sequence database?</li>
+    <li>Differentiate between a protein sequence database and a protein structure database.</li>
+</ol>
+
+<h3>Topic 17. Pharmacology and Drug Databases</h3>
+<ol>
+    <li>What is PubChem?</li>
+    <li>What is DrugBank?</li>
+    <li>What is ChEMBL?</li>
+    <li>Name any two databases useful in pharmaceutical research.</li>
+    <li>Which database can be used to obtain chemical structures and properties of compounds?</li>
+    <li>Explain one application of biological or chemical databases in drug discovery.</li>
+</ol>
+
+<h3>Topic 18. BLAST and Sequence Alignment</h3>
+<ol>
+    <li>Expand BLAST.</li>
+    <li>What is the main purpose of BLAST?</li>
+    <li>What is sequence alignment?</li>
+    <li>What is a query sequence in BLAST?</li>
+    <li>What is the difference between BLASTn and BLASTp?</li>
+    <li>What does sequence identity mean?</li>
+</ol>
+
+<h3>Topic 19. Basic Biostatistics and Excel</h3>
+<ol>
+    <li>Define mean.</li>
+    <li>What is median?</li>
+    <li>What is standard deviation?</li>
+    <li>Calculate the mean of the following values: 10, 20 and 30.</li>
+    <li>Name two types of graphs commonly used to represent biological data.</li>
+    <li>What is the purpose of a bar chart?</li>
+    <li>What information is represented on the X-axis and Y-axis of a graph?</li>
+</ol>
+
+<h3>Topic 20. Protein Data Bank and Structure Files</h3>
+<ol>
+    <li>What is the Protein Data Bank (PDB)?</li>
+    <li>What is a PDB file?</li>
+    <li>What is the PDBx/mmCIF file format?</li>
+    <li>What type of structural information can be obtained from the Protein Data Bank?</li>
+</ol>
+
+<h3>Topic 21. Molecular Visualization</h3>
+<ol>
+    <li>What is molecular visualization?</li>
+    <li>Name any two software programs used to visualize three-dimensional protein structures.</li>
+</ol>
+
+<h3>Topic 22. Basic grep for Pharmacology Data</h3>
+<ol>
+    <li>What is the main purpose of the <code>grep</code> command?</li>
+    <li>What does <code>grep</code> return when a pattern is found in a file?</li>
+    <li>Why can a CSV file be inspected using terminal commands before statistical analysis?</li>
+    <li>What does <code>^</code> represent in the simple <code>grep</code> patterns used in the article?</li>
+    <li>What does <code>$</code> represent in the simple <code>grep</code> patterns used in the article?</li>
+    <li>What does the <code>-c</code> option do in <code>grep</code>?</li>
+    <li>What does the <code>-v</code> option do in <code>grep</code>?</li>
+    <li>What does the <code>-i</code> option do in <code>grep</code>?</li>
+</ol>
+
+<h3>Topic 23. Basic R: Data Frames and Vectors</h3>
+<ol>
+    <li>What does <code>read.csv()</code> do in R?</li>
+    <li>What is the purpose of the <code>&lt;-</code> assignment operator in R?</li>
+    <li>What is a data frame?</li>
+    <li>What is a vector?</li>
+    <li>What does the <code>$</code> symbol do when used with a data frame?</li>
+    <li>What does <code>NA</code> represent in R?</li>
+    <li>What does <code>length()</code> tell us about a vector?</li>
+    <li>In <code>time[1]</code>, what does <code>[1]</code> select?</li>
+</ol>
+
+<h3>Topic 24. Control Flow: if and for in R and Python</h3>
+<ol>
+    <li>What is meant by control flow in programming?</li>
+    <li>What is the purpose of an <code>if</code> statement?</li>
+    <li>What happens when the condition in an <code>if</code> statement is true?</li>
+    <li>What is the purpose of <code>else</code>?</li>
+    <li>What is the purpose of a <code>for</code> loop?</li>
+    <li>Why is a <code>for</code> loop useful when the same operation must be repeated for several values?</li>
+    <li>What is the basic difference between an <code>if</code> statement and a <code>for</code> loop?</li>
+    <li>Do R and Python use exactly the same syntax to express control flow?</li>
+</ol>
+
+<h3>Topic 25. Creating Plots in Python</h3>
+<ol>
+    <li>Which plot is suitable for comparing values between categories?</li>
+    <li>Which plot is suitable for studying the relationship between two numerical variables?</li>
+    <li>Which plot is suitable for showing change through time?</li>
+    <li>In the article, which two variables are used for the scatter plot?</li>
+    <li>Which variable is placed on the X-axis in the time-versus-concentration scatter plot?</li>
+    <li>Why is a line plot suitable for following concentration through time for one subject?</li>
+    <li>Why should the X-axis and Y-axis of a graph be clearly labelled?</li>
+    <li>What should be decided first: the scientific question or the Python plotting command?</li>
+</ol>
+
+<h3>Topic 26. Creating Plots in R</h3>
+<ol>
+    <li>Which plot is used to compare body weights among subjects?</li>
+    <li>Which plot is used to examine the relationship between sampling time and concentration?</li>
+    <li>Which plot is used to follow concentration through time for one subject?</li>
+    <li>What does the <code>$</code> symbol allow us to access in an R data frame?</li>
+    <li>In the scatter plot, which variable is used on the X-axis?</li>
+    <li>In the scatter plot, which variable is used on the Y-axis?</li>
+    <li>Does changing from Python to R change the underlying scientific question or data?</li>
+    <li>What is the main lesson of producing the same plots in both R and Python?</li>
 </ol>
 </article>
   `,
