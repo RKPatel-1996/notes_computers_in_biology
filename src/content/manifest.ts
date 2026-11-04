@@ -1,6 +1,111 @@
 // AUTO-GENERATED FILE. DO NOT EDIT DIRECTLY.
 export const ARTICLE_MANIFEST = [
   {
+    "id": "RK-2026-026",
+    "title": "Basic grep for Pharmacology Data: Inspecting Repeated Drug-Concentration Records",
+    "date": "2026-09-29",
+    "tags": [
+      "#grep",
+      "#Bash",
+      "#PharmacologyData"
+    ],
+    "excerpt": "A beginner-level introduction to grep using a repeated-measures pharmacology dataset with subject ID, dose/amount, sampling time, concentration, body weight, and sex. Students learn to inspect the raw CSV, retrieve one subject, use beginning and end anchors, locate and count records, exclude a subject, and perform a simple case-insensitive search before moving toward structured analysis in R.",
+    "readTime": "20 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-026.ts"
+  },
+  {
+    "id": "RK-2026-027",
+    "title": "From CSV Text to R Data: Basic Syntax, Data Frames, and Vectors",
+    "date": "2026-09-29",
+    "tags": [
+      "#RProgramming",
+      "#DataFrames",
+      "#Vectors"
+    ],
+    "excerpt": "This article continues directly from the Bash and grep workflow by importing the same pharmacology CSV into R. Students learn the basic syntax of assignment and function calls, recognize the imported table as a data frame, extract individual columns as vectors, and perform simple indexing and numeric operations without yet moving into plotting or statistical analysis.",
+    "readTime": "22 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-027.ts"
+  },
+  {
+    "id": "RK-2026-028",
+    "title": "Control Flow with Pharmacology Data: if and for in R and Python",
+    "date": "2026-09-29",
+    "tags": [
+      "#ControlFlow",
+      "#RProgramming",
+      "#Python"
+    ],
+    "excerpt": "This article introduces the general idea of control flow using the same theophylline dataset used in the preceding Bash and R lessons. Students learn how decisions with if and repetition with for express the same programming logic in R and Python, then combine both ideas to inspect concentration values from the real dataset.",
+    "readTime": "24 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-028.ts"
+  },
+  {
+    "id": "RK-2026-029",
+    "title": "Creating Bar, Scatter, and Line Plots in Python with Pharmacology Data",
+    "date": "2026-09-29",
+    "tags": [
+      "#Python",
+      "#Matplotlib",
+      "#DataVisualization"
+    ],
+    "excerpt": "A beginner workflow for turning the same theophylline CSV used in earlier lessons into three standard Python plots. Students learn how the scientific question determines whether a bar, scatter, or line plot is appropriate, then follow the full sequence from importing pandas and matplotlib through reading, selecting, plotting, labeling, displaying, and interpreting the data.",
+    "readTime": "24 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-029.ts"
+  },
+  {
+    "id": "RK-2026-030",
+    "title": "Creating Bar, Scatter, and Line Plots in R with Pharmacology Data",
+    "date": "2026-09-29",
+    "tags": [
+      "#RProgramming",
+      "#DataVisualization",
+      "#BaseR"
+    ],
+    "excerpt": "This article recreates the same three visualization questions from the preceding Python lesson using base R. Students read the same theophylline CSV, select the same variables, create bar, scatter, and line plots, and see that the scientific question and data remain unchanged even though the plotting syntax is different.",
+    "readTime": "22 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-030.ts"
+  },
+  {
     "id": "RK-2026-025",
     "title": "Basic Biostatistics in Microsoft Excel: Mean, Standard Deviation, Cell References, and Plots",
     "date": "2026-09-21",
