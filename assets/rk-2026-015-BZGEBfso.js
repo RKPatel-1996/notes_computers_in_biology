@@ -1,4 +1,4 @@
-const i={id:"RK-2026-015",title:"Question Bank: short questions",date:"2026-08-11",tags:["#Questions","#SQs"],type:"report",template:"standard",readTime:"30 min",author:{name:"RK Patel",role:"Microbiologist",avatar:"https://github.com/RKPatel-1996.png",affiliation:"Gujarat University"},excerpt:`short questions
+const e={id:"RK-2026-015",title:"Question Bank: short questions",date:"2026-08-11",tags:["#Questions","#SQs"],type:"report",template:"standard",readTime:"30 min",author:{name:"RK Patel",role:"Microbiologist",avatar:"https://github.com/RKPatel-1996.png",affiliation:"Gujarat University"},excerpt:`
 `,content:`
 <article>
 
@@ -346,86 +346,5 @@ print(Sample)</code></pre>
     <li>Compare <code>.ipynb</code> and <code>.py</code> files.</li>
     <li>Why is Jupyter preferable during exploratory analysis?</li>
 </ol>
-
-<h3>Topic 13. Introduction to Bioinformatics</h3>
-<ol>
-    <li>What is bioinformatics?</li>
-    <li>State any two applications of bioinformatics in biological research.</li>
-    <li>How are computers used to store and analyse biological information?</li>
-    <li>Explain one application of bioinformatics in drug discovery.</li>
-    <li>Name two types of biological data commonly analysed using bioinformatics.</li>
-</ol>
-
-<h3>Topic 14. FASTA Format and Biological Sequences</h3>
-<ol>
-    <li>What is FASTA format?</li>
-    <li>What does the <code>&gt;</code> symbol represent in a FASTA file?</li>
-    <li>What types of biological sequences can be stored in FASTA format?</li>
-    <li>What information is usually included in a FASTA sequence header?</li>
-    <li>Write a simple example of a DNA sequence in FASTA format.</li>
-</ol>
-
-<h3>Topic 15. Nucleotide Sequence Databases</h3>
-<ol>
-    <li>What is a biological sequence database?</li>
-    <li>Name three major nucleotide sequence databases.</li>
-    <li>What is GenBank?</li>
-    <li>What is the European Nucleotide Archive (ENA)?</li>
-    <li>What is DDBJ?</li>
-    <li>What is an accession number in a biological database?</li>
-</ol>
-
-<h3>Topic 16. Protein Databases</h3>
-<ol>
-    <li>What is UniProt?</li>
-    <li>What is Swiss-Prot?</li>
-    <li>What type of information is available in a protein sequence database?</li>
-    <li>Differentiate between a protein sequence database and a protein structure database.</li>
-</ol>
-
-<h3>Topic 17. Pharmacology and Drug Databases</h3>
-<ol>
-    <li>What is PubChem?</li>
-    <li>What is DrugBank?</li>
-    <li>What is ChEMBL?</li>
-    <li>Name any two databases useful in pharmaceutical research.</li>
-    <li>Which database can be used to obtain chemical structures and properties of compounds?</li>
-    <li>Explain one application of biological or chemical databases in drug discovery.</li>
-</ol>
-
-<h3>Topic 18. BLAST and Sequence Alignment</h3>
-<ol>
-    <li>Expand BLAST.</li>
-    <li>What is the main purpose of BLAST?</li>
-    <li>What is sequence alignment?</li>
-    <li>What is a query sequence in BLAST?</li>
-    <li>What is the difference between BLASTn and BLASTp?</li>
-    <li>What does sequence identity mean?</li>
-</ol>
-
-<h3>Topic 19. Basic Biostatistics and Excel</h3>
-<ol>
-    <li>Define mean.</li>
-    <li>What is median?</li>
-    <li>What is standard deviation?</li>
-    <li>Calculate the mean of the following values: 10, 20 and 30.</li>
-    <li>Name two types of graphs commonly used to represent biological data.</li>
-    <li>What is the purpose of a bar chart?</li>
-    <li>What information is represented on the X-axis and Y-axis of a graph?</li>
-</ol>
-
-<h3>Topic 20. Protein Data Bank and Structure Files</h3>
-<ol>
-    <li>What is the Protein Data Bank (PDB)?</li>
-    <li>What is a PDB file?</li>
-    <li>What is the PDBx/mmCIF file format?</li>
-    <li>What type of structural information can be obtained from the Protein Data Bank?</li>
-</ol>
-
-<h3>Topic 21. Molecular Visualization</h3>
-<ol>
-    <li>What is molecular visualization?</li>
-    <li>Name any two software programs used to visualize three-dimensional protein structures.</li>
-</ol>
 </article>
-  `};export{i as default};
+  `};export{e as default};

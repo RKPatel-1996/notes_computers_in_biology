@@ -59,17 +59,17 @@ const i={id:"RK-2025-002",title:"Syllabus",date:"2026-07-05",tags:["#syllabus","
 
 <h3>Sequence Alignment Basics:</h3>
 <ul>
-  <li>Concept of homology, orthology, and paralogy &#10004; </li>
-  <li>understanding local vs. global alignment &#10004;</li>
-  <li>practical execution of Pairwise Sequence Alignment using BLAST (BLASTn, BLASTp) &#10004; </li>
-  <li>interpretation of E-values and bit scores &#10004;</li>
+  <li>Concept of homology, orthology, and paralogy </li>
+  <li>understanding local vs. global alignment </li>
+  <li>practical execution of Pairwise Sequence Alignment using BLAST (BLASTn, BLASTp) </li>
+  <li>interpretation of E-values and bit scores</li>
 </ul>
 
 <h3>Structural Bioinformatics Basics:</h3>
 <ul>
   <li>Introduction to the Protein Data Bank (PDB); &#10004;</li>
   <li>anatomy of a PDB file; &#10004;</li>
-  <li>introduction to basic standalone or web-based molecular visualization software (e.g., PyMOL, Chimera, or Jmol) for viewing three-dimensional macromolecular structures.&#10004;</li>
+  <li>introduction to basic standalone or web-based molecular visualization software (e.g., PyMOL, Chimera, or Jmol) for viewing three-dimensional macromolecular structures.</li>
 </ul>
   </article>
   `};export{i as default};
